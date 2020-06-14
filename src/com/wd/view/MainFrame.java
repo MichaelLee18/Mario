@@ -15,11 +15,11 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class MainFrame extends JFrame {
-    private BgImage bgImage;
+    public BgImage bgImage;
     //地图信息
     private int[][] mapData;
     public Mario mario;
-    private List<Enemy> enemyList = new ArrayList<>();
+    public List<Enemy> enemyList = new ArrayList<>();
 
 
     {
@@ -41,7 +41,7 @@ public class MainFrame extends JFrame {
             while(true){
                 repaint();
                 try {
-                    Thread.sleep(20);
+                    Thread.sleep(10);
                 } catch (InterruptedException e) {
                     e.printStackTrace();
                 }
@@ -50,7 +50,7 @@ public class MainFrame extends JFrame {
 
     }
     private void initData(){
-        mario = new Mario();
+        mario = new Mario(this);
         bgImage = new BgImage();
         //初始化地图信息
         for (int i = 0; i < mapData.length; i++) {

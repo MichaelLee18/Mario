@@ -25,7 +25,6 @@ public class MainFrameListener extends KeyAdapter {
                 break;
             case KeyEvent.VK_RIGHT:
                 mainFrame.mario.right = true;
-                System.out.println("=============");
                 break;
             case KeyEvent.VK_A:
                 break;
@@ -45,7 +44,7 @@ public class MainFrameListener extends KeyAdapter {
                 break;
             case KeyEvent.VK_RIGHT:
                 mainFrame.mario.right = false;
-                mainFrame.mario.img = new ImageIcon("img/mario1.png").getImage();
+                mainFrame.mario.img = new ImageIcon("img/mari1.png").getImage();
                 break;
             case KeyEvent.VK_A:
                 break;
