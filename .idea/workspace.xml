@@ -171,9 +171,10 @@
     </state>
     <state x="577" y="123" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1592101713656" />
     <state x="721" y="168" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1592059127385" />
-    <state x="473" y="40" key="CommitChangelistDialog2" timestamp="1592060643391">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="378" y="0" key="CommitChangelistDialog2" timestamp="1592108291780">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
+    <state x="378" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1592108291780" />
     <state x="473" y="40" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1592060643391" />
     <state x="690" y="201" key="FileChooserDialogImpl" timestamp="1592060537043">
       <screen x="0" y="0" width="1920" height="1040" />
@@ -232,9 +233,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="711" y="189" width="675" height="655" key="StructurePopup/0.0.1920.1040@0.0.1920.1040" timestamp="1592055725687" />
-    <state x="452" y="173" key="Vcs.Push.Dialog.v2" timestamp="1592060653598">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="362" y="137" key="Vcs.Push.Dialog.v2" timestamp="1592108298339">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
+    <state x="362" y="137" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1592108298339" />
     <state x="452" y="173" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1592060653598" />
     <state x="0" y="41" key="new project wizard" timestamp="1592101153447">
       <screen x="0" y="0" width="1536" height="824" />
